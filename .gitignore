@@ -1,0 +1,9 @@
+# Task 4 (work in progress)
+path/to/your/code/task4_Graph-Based_Analytics.ipynb
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+**/.DS_Store
